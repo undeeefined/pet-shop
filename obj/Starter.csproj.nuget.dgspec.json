@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\galli\\OneDrive\\Escritorio\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {}
+    "E:\\Fabio\\Documentos\\C# FreeCodeCamp\\3. Add Logic to C# Console Applications\\6.  Develop Conditional Branching and Looping Structures in C#\\pet-shop\\Starter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\galli\\OneDrive\\Escritorio\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {
+    "E:\\Fabio\\Documentos\\C# FreeCodeCamp\\3. Add Logic to C# Console Applications\\6.  Develop Conditional Branching and Looping Structures in C#\\pet-shop\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\galli\\OneDrive\\Escritorio\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "E:\\Fabio\\Documentos\\C# FreeCodeCamp\\3. Add Logic to C# Console Applications\\6.  Develop Conditional Branching and Looping Structures in C#\\pet-shop\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "C:\\Users\\galli\\OneDrive\\Escritorio\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+        "projectPath": "E:\\Fabio\\Documentos\\C# FreeCodeCamp\\3. Add Logic to C# Console Applications\\6.  Develop Conditional Branching and Looping Structures in C#\\pet-shop\\Starter.csproj",
         "packagesPath": "C:\\Users\\galli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\galli\\OneDrive\\Escritorio\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\obj\\",
+        "outputPath": "E:\\Fabio\\Documentos\\C# FreeCodeCamp\\3. Add Logic to C# Console Applications\\6.  Develop Conditional Branching and Looping Structures in C#\\pet-shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\galli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
